@@ -1,8 +1,1 @@
-Hola, esta va a ser un documento de prueva donde contaré mi historia
-
-
-Bueno, comenzaré con este proceso para ver si funciona esta forma de escribir.
-estoy aprendiendo a usar git porque es importante, y al parecer sí es una herramienta útil pero un poco dificil de comprender 
-
-
-perfect ahora voy a ver si mis archivos se vieron comprometidos.
+Ya estoy muy feliz porque poco a poco estoy a prendiendo a ser más vergas utilizando git y la terminal de comandos como todo un hacker :D.
