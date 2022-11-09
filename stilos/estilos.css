@@ -13,3 +13,12 @@ h1{
     font-size: 100px;
 }
 
+#cabecera {
+    background-color: darkolivegreen;
+    font-family: fantasy;
+    height: 50px;
+    width: 100%;
+    text-decoration: floralwhite;
+    text-transform: initial;
+    text-decoration-color: white;
+}
